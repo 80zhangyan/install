@@ -9,7 +9,7 @@
 数据库连接工具：
 数据库工具：
 办公工具：office365
-pdf阅读：sumatra pdf, 旧版本adobe reader,(金山pdf独立版)
+pdf阅读：sumatra pdf, 旧版本adobe reader,(金山pdf独立版),pdf4QT
 远程工具：自选，有向日葵，todesk，
 驱动：显卡，声卡，wifi，蓝牙，芯片，网卡，
 小工具：everything(voidtool),
