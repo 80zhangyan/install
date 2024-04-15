@@ -15,5 +15,16 @@ pdf阅读：sumatra pdf, 旧版本adobe reader,(金山pdf独立版)
 小工具：everything(voidtool),
 聊天工具：qq，微信，tim，钉钉，（国内）
 截图工具：(sharex),snippaset?
+下载工具：idm，aria2？
+视频编辑：ps ae c4d, 
+工程软件：autocad
+视频网站：bilibili
+输入法：rime，谷歌拼音
+安全工具：火绒，wireshark
+虚拟机工具：wmware，virtual box
+开发工具：vscode，vsstudio
+开发坏境：go，python，c++，java
+编译环境：？
+
 
 
